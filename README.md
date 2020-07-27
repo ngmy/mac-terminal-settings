@@ -1,1 +1,1 @@
-# mac-terminal-settings
+# ngmy's Mac Terminal settings
